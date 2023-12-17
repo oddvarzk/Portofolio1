@@ -1,19 +1,20 @@
 # Portofolio 1
 
-![image](https://user-images.githubusercontent.com/52622303/164316813-4b12d99f-aeb7-4069-85cf-e72b3a50ac99.png)
+![image](https://raw.githubusercontent.com/oddvarzk/Portofolio1/main/images/Portofolio1.png)
 
 Page showcasing my website projects.
 
 ## Description
 
 This page showcases three website projects that i've created while being a first year Front End Developer, showing what i can create and giving the user more insite on how well i can code and how
-creative i am in the space of creating a website.
+creative i am in the space of creating a website. So showcasing 
 
 
 ## Built With
 
 This website was created with
-HTML/CSS
+HTML
+CSS
 
 ## Getting Started
 
